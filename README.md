@@ -1840,6 +1840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hugging Face](https://huggingface.co) `https://huggingface.co/mcp`
   [![Hugging Face MCP connector](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/co.huggingface/hf-mcp-server)
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
+- [khive](https://khive.ai) `https://khive.ai/v1/mcp`
+  [![khive MCP connector](https://glama.ai/mcp/connectors/ai.khive/khive/badges/score.svg)](https://glama.ai/mcp/connectors/ai.khive/khive)
+  🔐 - Hosted memory, knowledge graph and task list for agents, kept in your workspace across sessions and clients.
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions, blockers, promises and what was already tried.
